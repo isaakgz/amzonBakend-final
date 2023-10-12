@@ -1,5 +1,5 @@
 // const functions = require("firebase-functions");
-require("dotenv").config();
+// require("dotenv").config();
 // const { onRequest } = require("firebase-functions/v2/https");
 // const logger = require("firebase-functions/logger");
 const express = require("express");
